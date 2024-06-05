@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>proxy check</title>
+  <style>
+<link rel="stylesheet" href="style.css">
+  </style>
+</head>
+<body>
+  
+  <div id="linkInputContainer">
+    <textarea id="linkInput" placeholder="proxyのリンクを挿入"></textarea>
+    <button id="embedButton" onclick="embedLinks()">
+      チェックを開始
+    </button>
+  </div>
+
+  <div id="iframesContainer"></div>
+
+  <div id="linksContainer">
+    <div id="linkListTitle">埋め込まれたリンク:</div>
+    <div id="linksList"></div>
+    <a id="downloadLink" onclick="downloadLinks()">リンクをダウンロード</a>
+  </div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
