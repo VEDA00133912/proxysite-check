@@ -6,7 +6,7 @@
       height: 100vh;
       margin: 0;
       padding: 20px;
-      background-color: #2c3e50;
+      background-color: #3cb371	;
       color: #ecf0f1;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
@@ -19,7 +19,7 @@
       padding: 10px;
       display: flex;
       align-items: center;
-      background-color: #34495e;
+      background-color: #006400	;
     }
 
     #linkInput {
@@ -35,7 +35,7 @@
       padding: 12px;
       font-size: 16px;
       background: linear-gradient(to right, #bdc3c7, #95a5a6);
-      color: #2c3e50;
+      color: #006400;
       border: none;
       border-radius: 8px;
       cursor: pointer;
@@ -86,7 +86,7 @@
     .resultIframe {
       width: 100%;
       height: 100%;
-      border: 1px solid #2c3e50;
+      border: 1px solid #006400;
       border-radius: 10px;
     }
 
@@ -102,7 +102,7 @@
 
     .toggleButtonInFrame.circle {
       background: linear-gradient(to right, #bdc3c7, #95a5a6);
-      color: #2c3e50;
+      color: #006400;
       padding: 5px;
       border: none;
       border-radius: 0 0 10px 10px;
