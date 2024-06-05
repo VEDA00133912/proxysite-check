@@ -1,6 +1,6 @@
 # proxysite-check
 iframeで表示して生きてるかどうか確認するやつ<br>
-元サイト:https://zest-difficult-dogsled.glitch.me/　制作:yanyaowuchengrensub_97770 & chatGPT<br>
+元サイト:<https://zest-difficult-dogsled.glitch.me/>　制作:yanyaowuchengrensub_97770 & chatGPT<br>
 これをちょいちょいいじってるだけ
 <br>
 <br>
